@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhammanna843@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-jena-817071307/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.s_u_b_h_a_m._.../)  
 </div>
 
@@ -72,9 +71,9 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Biswajena2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Biswajena2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajena2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Guddu1234651&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Guddu1234651&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guddu1234651&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -84,7 +83,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Biswajena2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Guddu1234651&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -104,7 +103,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Biswajena2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Guddu1234651&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -112,7 +111,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Biswajena2004&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Guddu1234651&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
